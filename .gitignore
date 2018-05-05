@@ -1,0 +1,2 @@
+# Ignore any files starting with ".", i.e. .DS_Store, .idea
+\.*
