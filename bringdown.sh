@@ -1,4 +1,4 @@
-#!/usr/bin/env bash -x
+#!/bin/bash -x
 
 docker stop grafana
 docker rm grafana
